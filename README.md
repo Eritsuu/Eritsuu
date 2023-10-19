@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eritsuu
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Build Custom Rom
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
